@@ -15,7 +15,7 @@
 *.iws
 *.iml
 *.ipr
-application.properties
+.application.properties
 
 ### NetBeans ###
 nbproject/private/
